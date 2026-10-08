@@ -1,0 +1,26 @@
+{
+  "slug": "workflowroi-automation-economics",
+  "name": "WorkflowROI",
+  "theme": "blue",
+  "symbol": "\u2197",
+  "seal": "VALUE UNDER ASSUMPTIONS",
+  "subtitle": "Automation Economics & Decision Simulator",
+  "headline": "Automation should earn",
+  "emphasis": "its place.",
+  "description": "Compare manual, partial and AI-assisted operating models. Explore review workload, error losses, adoption and payback before committing to an expensive system.",
+  "port": 4314,
+  "button": "Compare operating modes \u2192",
+  "kind": "simulate",
+  "payload": {},
+  "boundary": "Forecasts under explicit user assumptions; no savings or error probabilities were measured. Confidence labels are not calibrated probabilities.",
+  "method": [
+    "Set task volume, manual time, labor rates, implementation, maintenance and model/tool costs.",
+    "Model residual manual work, human review and unresolved errors in three operating modes.",
+    "Compute weekly risk-adjusted costs, positive-savings payback and first-year net value.",
+    "Vary adoption and error loss independently to find where the decision changes.",
+    "Recommend a measured pilot or do not automate when the economics fail the one-year horizon."
+  ],
+  "footer": "Forecasts, not outcomes \u00b7 assumptions beside every result",
+  "article": "When the right automation recommendation is \u201cdo not automate\u201d",
+  "summary": "A decision simulator for manual, partially automated and AI-assisted workflows, with review/error economics, adoption, maintenance, risk-adjusted savings, break-even, sensitivity analysis and explicit do-not-automate recommendations."
+}
